@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rafaelrvb@gmail.com
+	name = rafael boas
